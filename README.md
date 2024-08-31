@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...PYTHON,WEB DEVELOPMENT, AI
 - 💞️ I’m looking to collaborate on ...PROJECTS and GOOD IDEAS
 - 📫 How to reach me ...9816898181  gautamsamanyu3482@gmail.com
-- 😄 Pronouns: ...SAM
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...PYTHON WAS NOT NAMED AFTER A SNAKE.
 
 <!---
