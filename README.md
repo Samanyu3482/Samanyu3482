@@ -1,4 +1,11 @@
-# 💫 Hi 👋, I'm Samanyu Gautam
+<div align="center">
+  <h1>
+    Hi there, I'm
+    <a href="https://github.com/Samanyu3482">Samanyu Gautam</a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  </h1>
+
+</div>
 **A passionate Software Engineer || AI/ML Enthusiast  from India 🇮🇳**
 
 Email Me 👉 ✉️ **gautamsamanyu3482@gmail.com** For Collaboration/Project or Anything Else. 😊😊
