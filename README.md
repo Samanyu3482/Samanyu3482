@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Samanyu Gautam
-**A passionate Software Engineer || AI/ML Enthusiast || Cloud & DevOps Engineer from India 🇮🇳**
+**A passionate Software Engineer || AI/ML Enthusiast  from India 🇮🇳**
 
 Email Me 👉 ✉️ **gautamsamanyu3482@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
