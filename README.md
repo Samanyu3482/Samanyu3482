@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 <div align="center">
   <h1>
-    Hi there, I'm
+    Hola , I'm
     <a href="https://github.com/Samanyu3482">Samanyu Gautam</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   </h1>
